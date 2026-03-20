@@ -28,3 +28,9 @@ I'm an IT student and aspiring web developer. I enjoy creating simple, clean, an
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
+
+---
+## 🙈 Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jannserna&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
